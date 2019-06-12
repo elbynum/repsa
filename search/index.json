@@ -1,0 +1,125 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj5",
+    "label": "Blue Sculpture",
+    "_date": "22-Jun-18",
+    "location_cdmx": "REPSA",
+    "repsa_location": "Paseo de las Esculturas",
+    "location": "Mexico City",
+    "collection": "repsa",
+    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
+    "permalink": "/repsa/obj5",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj10",
+    "label": "UNAM Biblioteca",
+    "_date": "20-Jun-18",
+    "location_cdmx": "Ciudad Universitaria, UNAM",
+    "repsa_location": null,
+    "location": "Mexico City",
+    "collection": "repsa",
+    "thumbnail": "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",
+    "permalink": "/repsa/obj10",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj1",
+    "label": "Espacio Escultórico",
+    "_date": "18-Jun-18",
+    "location_cdmx": "REPSA",
+    "repsa_location": "Espacio Escultórico",
+    "location": "Mexico City",
+    "collection": "repsa",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "permalink": "/repsa/obj1",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj4",
+    "label": "Fence and Flowers",
+    "_date": "25-Jun-18",
+    "location_cdmx": "REPSA",
+    "repsa_location": "Avenida Biomédicas",
+    "location": "Mexico City",
+    "collection": "repsa",
+    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+    "permalink": "/repsa/obj4",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj9",
+    "label": "Fence with Sculptures",
+    "_date": "22-Jun-18",
+    "location_cdmx": "REPSA",
+    "repsa_location": "Outside Paseo de las Esculturas",
+    "location": "Mexico City",
+    "collection": "repsa",
+    "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
+    "permalink": "/repsa/obj9",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj8",
+    "label": "Overgrown Sign",
+    "_date": "18-Jun-18",
+    "location_cdmx": "REPSA",
+    "repsa_location": "Outside Espacio Escultórico",
+    "location": "Mexico City",
+    "collection": "repsa",
+    "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
+    "permalink": "/repsa/obj8",
+    "lunr_id": 5
+  },
+  {
+    "pid": "obj3",
+    "label": "Faded REPSA Sign",
+    "_date": "20-Jun-18",
+    "location_cdmx": "REPSA",
+    "repsa_location": "Edge of Nucleo Oriente",
+    "location": "Mexico City",
+    "collection": "repsa",
+    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
+    "permalink": "/repsa/obj3",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj7",
+    "label": "Snake Etching",
+    "_date": "22-Jun-18",
+    "location_cdmx": "REPSA",
+    "repsa_location": "Senda Ecológica",
+    "location": "Mexico City",
+    "collection": "repsa",
+    "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+    "permalink": "/repsa/obj7",
+    "lunr_id": 7
+  },
+  {
+    "pid": "obj6",
+    "label": "Fence with a View",
+    "_date": "20-Jun-18",
+    "location_cdmx": "REPSA",
+    "repsa_location": "Edge of Nucleo Oriente",
+    "location": "Mexico City",
+    "collection": "repsa",
+    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
+    "permalink": "/repsa/obj6",
+    "lunr_id": 8
+  },
+  {
+    "pid": "obj2",
+    "label": "Espacio Escultórico Sign",
+    "_date": "18-Jun-18",
+    "location_cdmx": "REPSA",
+    "repsa_location": "Espacio Escultórico",
+    "location": "Mexico City",
+    "collection": "repsa",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
+    "permalink": "/repsa/obj2",
+    "lunr_id": 9
+  }
+]
