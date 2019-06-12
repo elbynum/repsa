@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Wax?
+title: What is REPSA?
 permalink: /about/
 ---
 

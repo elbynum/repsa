@@ -3,14 +3,14 @@ layout: page
 show_title: false
 banner:
   collection: repsa
-  pid: obj10
-  y: 25%
+  pid: obj1
+  y: 50%
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+The Reserva Ecológica del Pedregal de San Ángel (REPSA) is located in southern Mexico City on the campus of the Universidad Nacional Autónoma de México's (UNAM) campus.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+The photographs featured on this website show various areas of REPSA's unique environment, including both the pedregal's distinctive vegetation and rocky earth, as well as the monumental landscape art features that are part of the landscape.
 
 ### Browse the Collection
 
