@@ -8,9 +8,9 @@ banner:
   height: '500px'
 ---
 
-The Reserva Ecológica del Pedregal de San Ángel (REPSA) is located in southern Mexico City on the campus of the Universidad Nacional Autónoma de México's (UNAM) campus.
+The Reserva Ecológica del Pedregal de San Ángel (REPSA) is located in southern Mexico City on the campus of the Universidad Nacional Autónoma de México's (UNAM).
 
-The photographs featured on this website show various areas of REPSA's unique environment, including both the pedregal's distinctive vegetation and rocky earth, as well as the monumental landscape art features that are part of the landscape.
+The photographs featured on this website show various areas of REPSA's unique environment, including both the pedregal's distinctive vegetation and rocky ground, as well as the monumental landscape art pieces that are part of the reserve.
 
 ### Browse the Collection
 

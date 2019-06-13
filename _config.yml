@@ -22,7 +22,7 @@ title:            'Reserve Revisited'
 description:      'A Visual and Literary Tour of the Reserva Ecológica del Pedregal de San Ángel (REPSA)'
 url:              'https://minicomp.github.io'
 baseurl:          '/repsa'
-copyright:        'Example copyright org, 2019'
+copyright:        <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -124,12 +124,11 @@ menu:
 
 footer:
   links:
-    - label: 'About this Site'
+    - label: 'About Site Construction'
       link: 'https://github.com/minicomp/wax'
     - label: 'Credits'
       link: '/credits'
-    - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+
   logos:
     - img: '/img/logo.png'
 

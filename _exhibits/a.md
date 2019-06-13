@@ -32,6 +32,9 @@ This was always a space of human-nonhuman interaction, but new marks of that eng
 The idea of a reserve aims to avoid infringement or degradation, but even the reserve directors seem to recognize that is not fully possible. The hidden spaces of the Pedregal’s geological and biological making create room for the plants and animals of the reserve but also secluded meeting spots for young people. Signs posted in and around the reserve outline the biological and geological importance of the place, but that is not an effective deterrent, and alcohol bottles and other trash are easily spotted in the reserve.
 Other kinds of things get in, too. The patchwork of spaces that constitute the reserve includes the Jardín Botánico, a network of paths that reveal cacti and agave plants, ponds and quiet places. The garden, open to the public, includes species though that are not “native” to the environment of the Pedregal, an incorporation that can be seen to challenge the integrity of the reserve’s preservation project. Still, other life seeks to get out, reaching greenly through fence links, in a gesture towards expansion.
 
+<img src="/repsa/jardinbotanico.jpg" alt="jardinbotanico" width="500"
+      height="500">
+
 The reserve itself holds so many lively forms but it’s fragmented existence, if understood in certain ways, impedes upon the liveliness of others. The Pedregal has always been a place of human-nonhuman interaction. What is different now are the terms of that engagement.
 
 ---
