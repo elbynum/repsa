@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /exhibits/
-title: Essays
+permalink: /read/
+title: Read
 ---
 
 {% assign exhibits = site.exhibits | where: 'layout','exhibit' %}

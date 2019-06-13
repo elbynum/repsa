@@ -4,45 +4,16 @@ title: What is REPSA?
 permalink: /about/
 ---
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+**La Reserva Ecológica del Pedregal de San Ángel (REPSA) was established in 1983 and
+encompasses remnants of an ecosystem produced by a volcanic eruption 1600 years ago,
+characterized today by shrubland vegetation (Zambrano et al. 2016).**[^1] As I learned during field work in 2018, the impetus to create the reserve came in part from student-led actions (Barrios 2014).[^2] Today, the reserve’s existence is challenged by unauthorized or “illicit” uses of the space, university expansion, and processes of urban development.
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+The environment that REPSA aims to protect was created over 1600 years ago, when the
+volcano, Xitle, exploded. The lava spread over 80 square kilometers, covering the precolonial city of Cuicuilco in its path, and creating the stony, porous ground of the Pedregal. The hollows and caves that exist in the reserve are the result of this volcanic reworking of the terrain. Gradually, with the expansion of Mexico City and the construction of UNAM’s campus, the original reach of the Pedregal has been fragmented. The reserve itself is divided in half by the presence of the busy Avenida Insurgentes where cars, buses, trucks, and the metrobus continually roar past. Today, the reserve encompasses a total of 237 hectares.
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
+**My research will eventually to study the reserve by engaging with the role of sound in and around the reserve.**  In 2012, Mexico City’s Secretary of the Environment sponsored a city-wide “Map of Noise,” which suggested that sounds above certain decibel levels are harmful, with potential negative impacts on people and wildlife. According to the map, REPSA sits within one of the noisiest zones of the city, and scientists are concerned about the potential effects of noise on reserve wildlife. Still, *there are areas inside of REPSA's protected spaces where you cannot hear either nearby traffic or other sounds from the surrounding city.* From a sound studies perspective, the presence/absence of sound likely shapes how people experience REPSA's spaces within the larger urban environment. I plan to ethnographically study how reserve scientists manage a threat they have very limited control over, but which resonates constantly and may shape how university students and nearby communities experience the "natural" space of the reserve within Mexico City's urban setting.
 
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
+For detailed information on the reserve and its history, visit the reserve's <a href="http://www.repsa.unam.mx"> website.</a> 
 
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
-
-## Who is Wax for?
-
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
-
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://www.columbia.edu/content/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
-
-
-## So what does the Wax workflow *look like?*
-
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
-
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
-
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+[^1]: Zambrano, Luis, Saúl Rodríguez Palacios, Marcela Pérez Escobedo, Guillermo Gil Alarcón, Pedro Camarena, and Antonio Lot. “La Reserva Ecológica Del Pedregal de San Ángel: Atlas de Riesgos.” Ciudad de México: Secretaría Ejecutiva de la Reserva Ecológica del Pedregal de San Ángel, 2016.
+[^2]: Barrios, Raúl García. “El origen de la reserva ecológica de la UNAM en CU: historia de un conflicto patrimonial y ambiental.” *Cultura y representaciones sociales*, 2014, 50.

@@ -3,7 +3,7 @@ layout: exhibit
 title: 'REPSA: Sedimented Histories'
 author: Elizabeth Bynum
 publish_date: 2019-02-11
-permalink: /exhibits/a/
+permalink: /read/a/
 ---
 
 The rainy season brings forth proliferation, spreading, entangling vines and flowers and green. Arising from rocky ground, the flora of the Reserva Ecológica del Pedregal de San Ángel, sprouts, grows, and expands. These entanglements, such as they are, are broken up by new kinds of solid formations, the cement of university buildings, the pavement of major roads. These entanglements emerge in fragments, but fragments provide clues. To be fragmented implies past connection, hinting at relationships that are often temporally confined to “the past,” but that can be accessed again through an awareness of traces and linkages.  
@@ -38,8 +38,7 @@ The reserve itself holds so many lively forms but it’s fragmented existence, i
 
 ### Notes
 
-*Material for this essay draws on ethnographic research during June of 2018, and additional
-information comes from:*
+*This essay was originally written for the course "Experimental Ethnographies," taught by Professor Kristina Lyons at the University of Pennsylvania in Spring 2019. Material for this essay draws on ethnographic research conducted in June of 2018, and additional information comes from:*
 
 Barrios, Raúl García. “El origen de la reserva ecológica de la UNAM en CU: historia de un conflicto patrimonial y ambiental.” *Cultura y representaciones sociales*, 2014, 50.
 “REPSA. Reserva Ecológica Del Pedregal de San Ángel.” Accessed February 10, 2019. http://www.repsa.unam.mx/.
